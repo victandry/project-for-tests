@@ -1,0 +1,26 @@
+{
+  "name": "project-for-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Песочница для изучения тестов.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victandry/project-for-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victandry/project-for-tests/issues"
+  },
+  "homepage": "https://github.com/victandry/project-for-tests#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
